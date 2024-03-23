@@ -1,23 +1,9 @@
-# Hi, There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-
-<br/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Change%20the%20world%20by%20being%20yourself.&fontColor=FFFFFF&fontSize=54&animation=fadeIn)
 
 <div align=center>
 
-  ##### 고객의 편의를 중시하는 IT서비스
-  
-  ##### 기획자를 꿈꾸는 조나희입니다.
-
-  <br/><br/>
-  
-### Portfolio
-  
-  [![Resume Badge](http://img.shields.io/badge/-Portfolio-green?style=flat&logo=notion&logoColor=white)](https://thunder-twister-d63.notion.site/IT-655d8596e5aa4f4095bd628bb71c3d55?pvs=4)
-
-<h3 align="center">•••</h3>
-
-### Tech Stack
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+# Tech Stack
+  <img src="https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
@@ -32,29 +18,27 @@
   
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=fontawesome&logoColor=white">
-  <br>
+  <br><br>
 
-<h3 align="center">•••</h3>
-
-### Contact
+# Contact
   [![Tstory Blog](https://img.shields.io/badge/-nahhh.tistory.com-c14438?style=flat-square&logo=tistory&link=https://nahhh.tistory.com/)](https://nahhh.tistory.com/)
   [![Email Badge](http://img.shields.io/badge/nahee2253@naver.com-orange?style=flat&logo=Gmail&logoColor=white)](nahee2253@naver.com)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nahhh__j/)
+  [![Resume Badge](http://img.shields.io/badge/-Portfolio-green?style=flat&logo=notion&logoColor=white)](https://thunder-twister-d63.notion.site/IT-655d8596e5aa4f4095bd628bb71c3d55?pvs=4)
+  <br><br>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahhh-j&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=35.5% />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nahhh-j&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=62%/>
 
-<br/><br/><br/><br/><br/>
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahhh-j&layout=compact)
+<br>
 
-<br/><br/><br/>
+<div align=right>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0E346C&height=200&section=footer)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNahhh-j&count_bg=%237194E1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
