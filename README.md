@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Change%20the%20world%20by%20being%20yourself&fontColor=FFFFFF&fontSize=54&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Change%20the%20world%20by%20being%20yourself&fontColor=FFFFFF&fontSize=53.3&animation=fadeIn)
 
 <div align=center>
 
