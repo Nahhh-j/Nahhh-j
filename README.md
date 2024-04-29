@@ -28,7 +28,7 @@
   [![Tstory Blog](https://img.shields.io/badge/-nahhh.tistory.com-c14438?style=flat-square&logo=tistory&link=https://nahhh.tistory.com/)](https://nahhh.tistory.com/)
   [![Email Badge](http://img.shields.io/badge/nahee2253@naver.com-orange?style=flat&logo=Gmail&logoColor=white)](nahee2253@naver.com)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nahhh__j/)
-  [![Resume Badge](http://img.shields.io/badge/-Portfolio-green?style=flat&logo=notion&logoColor=white)](https://thunder-twister-d63.notion.site/IT-655d8596e5aa4f4095bd628bb71c3d55?pvs=4)
+  [![Resume Badge](http://img.shields.io/badge/-Portfolio-green?style=flat&logo=notion&logoColor=white)]()
   <br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahhh-j&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=35.5% />
